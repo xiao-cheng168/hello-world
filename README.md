@@ -16,6 +16,6 @@ This is the first repository in my life, I will learn to use github and record i
 2.在本地使用Git命令克隆：打开你的终端（命令行），使用 git clone命令。  
 ```bash  
 git clone https://github.com/你的用户名/仓库名.git  
-3.进入目录：完成后，会自动创建一个与仓库同名的文件夹，进入即可开始工作。  
-```bash
-cd 仓库名  
+```
+
+3.进入目录：完成后，会自动创建一个与仓库同名的文件夹，进入即可开始工作。`cd 仓库名`  
